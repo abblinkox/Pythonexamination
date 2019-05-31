@@ -1,0 +1,15 @@
+import ui
+ui.line()                    # i denna kod skriver vi bara ut alla funktioner vi gjort i ui.py
+ui.header("Meddelande")
+ui.line(True)
+ui.echo("Hej Hej")
+ui.echo("Hej då")
+ui.line()
+ui.header("Hallå")
+ui.line()
+ui.echo("A")
+ui.echo("B")
+ui.echo("C")
+ui.echo("D")
+ui.line()
+ui.prompt("Val")
